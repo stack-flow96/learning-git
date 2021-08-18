@@ -5,3 +5,4 @@ My favorite color is red
 sajhbjskc
 i have changed the file mow lets see git status
 svjhbsisd
+I have changed few lines of code and will push it as a second commit
